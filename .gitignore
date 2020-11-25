@@ -1,0 +1,5 @@
+*.o
+/worker
+/dispatcher
+/boost_1_75_0/
+/boost_1_75_0_b1.tar.gz
